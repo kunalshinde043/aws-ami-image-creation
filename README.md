@@ -1,0 +1,1 @@
+# AMI Image Creation in same region.
